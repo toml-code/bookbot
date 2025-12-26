@@ -1,3 +1,1 @@
-H1 My Test Project*
-*test*
-# comment
+# My test project
